@@ -1,2 +1,4 @@
 this is my sample file to learn git.
 hey friends
+this is Joju Thomas
+imm in the uk
