@@ -1,1 +1,2 @@
-this is my sample file to learn git
+this is my sample file to learn git.
+hey friends
